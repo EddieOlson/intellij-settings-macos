@@ -1,0 +1,41 @@
+<keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="AnalyzeMenu">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="BuildMenu">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="CodeMenu">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="EditMenu">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="FileMenu">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="GoToMenu">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="HelpMenu">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="RefactoringMenu">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RunMenu">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="ToolsMenu">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="VcsGroups">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="ViewMenu">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="WindowMenu">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+</keymap>
