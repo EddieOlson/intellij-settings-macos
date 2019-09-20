@@ -20,6 +20,9 @@
   <action id="HelpMenu">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="QuickList.My Quick List">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="RefactoringMenu">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -30,10 +33,10 @@
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="VcsGroups">
-    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="ViewMenu">
-    <keyboard-shortcut first-keystroke="alt v" />
+    <keyboard-shortcut first-keystroke="alt i" />
   </action>
   <action id="WindowMenu">
     <keyboard-shortcut first-keystroke="alt w" />
