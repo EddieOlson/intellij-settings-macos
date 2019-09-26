@@ -1,4 +1,4 @@
 <list display="My Quick List">
   <action id="Github.Open.In.Browser" />
-  <action id="Terminal.OpenInTerminal" />
+  <action id="Compare.Selected" />
 </list>
