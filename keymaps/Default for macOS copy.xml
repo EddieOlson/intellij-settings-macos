@@ -1,7 +1,8 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="BuildMenu">
     <keyboard-shortcut first-keystroke="alt b" />
@@ -9,9 +10,11 @@
   <action id="CodeMenu">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditMenu">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="FileChooser.GotoProject" />
   <action id="FileMenu">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
