@@ -1,5 +1,7 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 2" />
@@ -28,6 +30,11 @@
   <action id="EditMenu">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileMenu">
     <keyboard-shortcut first-keystroke="alt f" />
@@ -60,7 +67,7 @@
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="shift meta 2" />
