@@ -1,13 +1,16 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
-  <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="BuildMenu">
     <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="meta alt z" />
+    <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
   <action id="CodeMenu">
     <keyboard-shortcut first-keystroke="alt c" />
@@ -30,10 +33,6 @@
   <action id="EditMenu">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
-  <action id="EditorEscape">
-    <keyboard-shortcut first-keystroke="escape" />
-    <keyboard-shortcut first-keystroke="meta 4" />
-  </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileMenu">
@@ -52,6 +51,9 @@
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="ctrl meta n" />
+  </action>
+  <action id="PopupMenu-cancel">
+    <keyboard-shortcut first-keystroke="escape" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
