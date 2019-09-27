@@ -33,6 +33,11 @@
   <action id="EditMenu">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="ctrl meta 4" />
+  </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileMenu">
