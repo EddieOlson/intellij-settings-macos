@@ -38,6 +38,9 @@
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="ctrl meta 4" />
   </action>
+  <action id="EditorScrollToCenter">
+    <keyboard-shortcut first-keystroke="ctrl meta m" />
+  </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileMenu">
