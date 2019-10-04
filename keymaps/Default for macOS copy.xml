@@ -68,8 +68,16 @@
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="ctrl meta n" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="alt n" />
+  </action>
   <action id="PopupMenu-cancel">
     <keyboard-shortcut first-keystroke="escape" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="alt p" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
@@ -86,6 +94,12 @@
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="alt h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="alt v" />
   </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="shift meta 2" />
