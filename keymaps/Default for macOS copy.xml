@@ -13,7 +13,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
   <action id="CloseProject">
-    <keyboard-shortcut first-keystroke="shift meta w" />
+    <keyboard-shortcut first-keystroke="ctrl meta w" />
   </action>
   <action id="CodeMenu">
     <keyboard-shortcut first-keystroke="alt c" />
