@@ -1,4 +1,5 @@
 <list display="My Quick List">
   <action id="Github.Open.In.Browser" />
   <action id="Compare.Selected" />
+  <action id="ActivateGitHubPullRequestsToolWindow" />
 </list>
