@@ -3,6 +3,7 @@
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta 3" />
   </action>
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 2" />
@@ -50,6 +51,9 @@
   <action id="FileChooser.GotoProject" />
   <action id="FileMenu">
     <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="GoToMenu">
     <keyboard-shortcut first-keystroke="alt n" />
