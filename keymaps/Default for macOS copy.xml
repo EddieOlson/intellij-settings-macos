@@ -29,11 +29,11 @@
   </action>
   <action id="Diff.ApplyLeftSide">
     <keyboard-shortcut first-keystroke="shift ctrl right" />
-    <keyboard-shortcut first-keystroke="ctrl meta f" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />
   </action>
   <action id="Diff.ApplyRightSide">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
-    <keyboard-shortcut first-keystroke="ctrl meta b" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt b" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditMenu">
@@ -94,7 +94,7 @@
   </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="ctrl meta n" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt n" />
   </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
