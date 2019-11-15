@@ -114,6 +114,7 @@
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
     <keyboard-shortcut first-keystroke="ctrl meta p" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt p" />
   </action>
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
