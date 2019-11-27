@@ -47,6 +47,7 @@
   <action id="EditorScrollToCenter">
     <keyboard-shortcut first-keystroke="ctrl meta m" />
   </action>
+  <action id="EditorToggleCase" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileMenu">
@@ -85,10 +86,12 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="MarkdownNavigator.HeaderLevelDown">
-    <keyboard-shortcut first-keystroke="shift ctrl meta j" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="MarkdownNavigator.HeaderLevelUp">
-    <keyboard-shortcut first-keystroke="shift ctrl meta u" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
