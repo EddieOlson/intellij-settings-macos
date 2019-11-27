@@ -84,6 +84,12 @@
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="MarkdownNavigator.HeaderLevelDown">
+    <keyboard-shortcut first-keystroke="shift ctrl meta j" />
+  </action>
+  <action id="MarkdownNavigator.HeaderLevelUp">
+    <keyboard-shortcut first-keystroke="shift ctrl meta u" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
     <keyboard-shortcut first-keystroke="ctrl meta alt n" />
