@@ -88,10 +88,12 @@
   <action id="MarkdownNavigator.HeaderLevelDown">
     <keyboard-shortcut first-keystroke="shift meta d" />
     <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="MarkdownNavigator.HeaderLevelUp">
     <keyboard-shortcut first-keystroke="shift meta u" />
     <keyboard-shortcut first-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
