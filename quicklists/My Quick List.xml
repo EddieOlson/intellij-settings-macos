@@ -1,4 +1,5 @@
 <list display="My Quick List">
   <action id="Compare.Selected" />
   <action id="ActivateGitHubPullRequestsToolWindow" />
+  <action id="Github.PullRequest.Branch.Create" />
 </list>
