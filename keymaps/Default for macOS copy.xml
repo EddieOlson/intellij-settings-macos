@@ -85,7 +85,6 @@
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
-  <action id="IntroduceVariable" />
   <action id="MarkdownNavigator.HeaderLevelDown">
     <keyboard-shortcut first-keystroke="shift meta d" />
     <keyboard-shortcut first-keystroke="ctrl d" />
