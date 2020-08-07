@@ -11,10 +11,12 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="file5" type="PLAIN_TEXT" />
       <mapping pattern="run-book" type="PLAIN_TEXT" />
+      <mapping ext="x latest" type="PLAIN_TEXT" />
       <mapping ext="sh-example" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="getServiceImages3x" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
