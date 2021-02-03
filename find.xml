@@ -15,9 +15,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>processes.md</mask>
-    <mask>*.md</mask>
     <mask>.env</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
+    <mask>*.md</mask>
   </component>
 </application>
