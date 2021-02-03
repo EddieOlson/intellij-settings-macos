@@ -1,11 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -15,7 +16,8 @@
     <mask>*.mxml</mask>
     <mask>processes.md</mask>
     <mask>*.md</mask>
-    <mask>*.js</mask>
     <mask>.env</mask>
+    <mask>*.properties</mask>
+    <mask>*.js</mask>
   </component>
 </application>

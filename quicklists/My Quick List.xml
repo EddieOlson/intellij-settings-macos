@@ -2,4 +2,6 @@
   <action id="Compare.Selected" />
   <action id="ActivateGitHubPullRequestsToolWindow" />
   <action id="Github.PullRequest.Branch.Create" />
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="Git.CompareWithBranch" />
 </list>
