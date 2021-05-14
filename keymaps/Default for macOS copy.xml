@@ -169,10 +169,12 @@
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
     <keyboard-shortcut first-keystroke="ctrl meta n" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt n" />
   </action>
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
     <keyboard-shortcut first-keystroke="ctrl meta p" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt p" />
   </action>
   <action id="ViewMenu">
     <keyboard-shortcut first-keystroke="alt i" />
