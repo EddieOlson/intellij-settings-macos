@@ -39,6 +39,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt b" />
   </action>
+  <action id="Diff.NextConflict">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="Diff.PreviousConflict">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditMenu">
     <keyboard-shortcut first-keystroke="alt e" />
@@ -76,11 +82,11 @@
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta n" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift f2" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta p" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="HelpMenu">
     <keyboard-shortcut first-keystroke="alt h" />
@@ -107,10 +113,12 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
     <keyboard-shortcut first-keystroke="ctrl meta alt p" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NewScratchFile" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt n" />
+    <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
@@ -129,8 +137,7 @@
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
-    <keyboard-shortcut first-keystroke="ctrl meta p" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt p" />
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
@@ -142,6 +149,8 @@
   <action id="RefactoringMenu">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="RunAnything">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt quote" />
   </action>
@@ -169,6 +178,9 @@
   <action id="ToggleFullScreen" />
   <action id="ToolsMenu">
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="Vcs.Diff.ExcludeChangedLinesFromCommit">
+    <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
   <action id="Vcs.RollbackChangedLines">
     <keyboard-shortcut first-keystroke="meta alt z" />
